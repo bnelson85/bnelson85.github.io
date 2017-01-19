@@ -1,5 +1,8 @@
 {% include header.md %}
 
-## Projects
+# Projects
 
-> TODO
+## Completed
+
+## Current
+
