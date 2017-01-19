@@ -1,6 +1,5 @@
----
-title: CV
----
+{% include header.md %}
+
 ## Curriculum Vitae
 
 ### Skills
