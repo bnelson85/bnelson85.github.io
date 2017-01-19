@@ -1,1 +1,1 @@
-[CV](/cv) | [Projects](/projects)
+[CV](/) | [Projects](/projects)
