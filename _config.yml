@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+defaults:
+  - 
+    scope: 
+      path: ""
+    values:
+      title: "Brandon Nelson"
+      
+markdown: kramdown
