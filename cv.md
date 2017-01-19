@@ -6,21 +6,21 @@
 
 - C/C++, 10+ years
 - Java, 10+ years
-- Python, 5+ years
 - SQL, 5+ years
+- [Python](https://www.python.org/), 5+ years
 - [Lua](https://www.lua.org), 5+ years
 
 ### Software Development
 
 - Visual Studio, 10+ years
-- Git, 5+ years
+- [Git](https://git-scm.com/), 5+ years
 - [CMake](https://cmake.org/), 2+ years
 - [Ninja](https://ninja-build.org/), 2+ years
 
 ### Applications
 
 - Microsoft Office, 10+ years
-- OpenOffice/LibreOffice, 5+ years
+- [OpenOffice](https://www.openoffice.org/)/[LibreOffice](https://www.libreoffice.org/), 5+ years
 - [ArcGIS Desktop/Server/Pro](https://www.esri.com/), 2+ years
 
 ### Other
