@@ -1,10 +1,9 @@
 theme: jekyll-theme-slate
 
-defaults:
-  - 
-    scope: 
-      path: ""
-    values:
-      title: "Brandon Nelson"
-      
-markdown: kramdown
+title: "Brandon Nelson"
+tagline: "Software Developer, etc."
+
+author :
+  name : Brandon Nelson
+  email : brandon.nelson.1985@gmail.com
+  github : bnelson85
