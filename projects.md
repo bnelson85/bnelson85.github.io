@@ -1,4 +1,5 @@
----
-title: Projects
----
+{% include header.md %}
+
+## Projects
+
 > TODO
