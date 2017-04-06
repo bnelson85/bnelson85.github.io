@@ -34,7 +34,8 @@
 
 ### [City of Palm Bay, Florida](http://www.palmbayflorida.org/)
 
-- GIS Technician, 2014 – present
+- Database Administrator, 2017 – present
+- GIS Technician, 2014 – 2017
 - Maintenance Worker, 2013 – 2014
 - Groundskeeper, 2012 – 2013
 
