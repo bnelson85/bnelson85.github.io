@@ -10,7 +10,7 @@
 - Java, 10+ years
 - SQL, 5+ years
 - [Python](https://www.python.org/), 5+ years
-- [Lua](https://www.lua.org), 5+ years
+- [Lua](https://www.lua.org/), 5+ years
 
 ### Software Development
 
@@ -24,6 +24,7 @@
 - Microsoft Office, 10+ years
 - [OpenOffice](https://www.openoffice.org/)/[LibreOffice](https://www.libreoffice.org/), 5+ years
 - [ArcGIS Desktop/Server/Pro](https://www.esri.com/), 2+ years
+- [Cityworks](http://www.cityworks.com/), 1+ years
 
 ### Other
 
@@ -49,7 +50,7 @@
 
 ## Education
 
-### [Keiser University](http://www.keiseruniversity.edu/)
+### [Keiser University](https://www.keiseruniversity.edu/)
 
 - Major: Information Technology
 - Degree: Associate of Science, Information Technology
@@ -58,7 +59,7 @@
 
 - Major: Computer Science
 
-### [Florida Institute of Technology](http://www.fit.edu/)
+### [Florida Institute of Technology](https://www.fit.edu/)
 
 - Major: Computer Science
 
